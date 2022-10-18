@@ -48,7 +48,7 @@
 }
 
 /* Moblie */
-@media (max-width: 739x) {
+@media (max-width: 739px) {
     .s-col-full,
     .s-full-width {
         width: 100% !important;
